@@ -37,6 +37,7 @@
 
     <modules>
         <module>CrossRexApp</module>
+        <module>CrossRex-DaoGen</module>
     </modules>
 
     <dependencyManagement>
