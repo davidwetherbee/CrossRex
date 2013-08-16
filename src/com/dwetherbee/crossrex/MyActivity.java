@@ -15,6 +15,6 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        Log.i(TAG, "David is awesome");
+        Log.i(TAG, "David is awesome!");
     }
 }
