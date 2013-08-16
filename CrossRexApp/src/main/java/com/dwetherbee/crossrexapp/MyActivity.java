@@ -1,12 +1,9 @@
-package com.dwetherbee.crossrex;
+package com.dwetherbee.crossrexapp;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
 
 public class MyActivity extends Activity {
-
-    public static final String TAG = "MyActivity";
     /**
      * Called when the activity is first created.
      */
@@ -14,7 +11,5 @@ public class MyActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-
-        Log.i(TAG, "David is awesome!");
     }
 }
