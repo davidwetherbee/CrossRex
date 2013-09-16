@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrossRexApp</string>
+    <string name="my_profile_button">My Profile</string>
+    <string name="calendar_button">Calendar</string>
+    <string name="goals_button">Where I want to be (Goals)</string>
+    <string name="timers_button">Timers</string>
+    <string name="whereimat_button">Where I\'m at</string>
+    <string name="prs_button">PR\'s</string>
+
+
+
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="100"
+              android:background="@color/black">
+
+
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50">
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50">
+
+
+
+
+
+        <Button
+            android:id="@+id/profilebutton"
+            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:text="@string/my_profile_button"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:clickable="true"
+            android:background="@color/red"
+            android:layout_gravity="center_horizontal"/>
+
+
+        <Button
+                android:id="@+id/calendarbutton"
+                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:text="@string/calendar_button"
+                android:layout_marginBottom="10dp"
+                android:background="@color/red"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"/>
+
+
+
+
+        <Button
+                android:id="@+id/timersbutton"
+                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:text="@string/timers_button"
+                android:layout_marginBottom="10dp"
+                android:background="@color/red"
+                android:layout_gravity="center_horizontal"/>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+
