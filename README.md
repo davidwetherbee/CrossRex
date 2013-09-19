@@ -12,27 +12,27 @@ CrossRex
 +  a. User info fields
 +  b. Add buttons to other views
  8. Develop Current Status View
-a. Add page title
-b. Add info field for recorded workouts
++ Add page title
++ Add info field for recorded workouts
  9. Develop Workout View
-a. Add info fields for necessary workout specifics (name,date, time, reps, weight, ect)
-b. Create default view if no previous workout recordings available
++ Add info fields for necessary workout specifics (name,date, time, reps, weight, ect)
++ Create default view if no previous workout recordings available
  10. Develop PR View
-a.  Add view title
-b. add info fields for workouts and best recorded increments 
++  Add view title
++ add info fields for workouts and best recorded increments 
  11. Develop Calendar View
-a. Integrate Google Calendar API
-b. Integrate CrossRex logo on dates with workouts recorded
-c. View title
++ Integrate Google Calendar API
+ Integrate CrossRex logo on dates with workouts recorded
++ View title
  12. Develop Day Log View
-a.  Add info fields for Date, scheduled workout, recorded workout, increment
-b. Add rating system 
-c. Add buttons
++  Add info fields for Date, scheduled workout, recorded workout, increment
++ Add rating system 
++ Add buttons
  13. Develop Goals View
-a.  Add view title
-b. Add info fields (columns and rows) for workout, desired result, and Date
-c. Add save
--14. Develop Clock Views
-a. Find timer libraries for generic timers
-b. Develop Prep Work Rest timer
-+14. Develop Clock Views
++  Add view title
++ Add info fields (columns and rows) for workout, desired result, and Date
++ Add save button
+ 14. Develop Clock Views
++ Find timer libraries for generic timers
++ Develop Prep Work Rest timer
+
